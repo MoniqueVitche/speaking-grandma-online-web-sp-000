@@ -13,6 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(string = "hi")
-  string
-  string
+  if string
+    puts "HUH?! SPEAK UP, SONNY!"
 end
